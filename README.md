@@ -1,1 +1,3 @@
-# final-project-thuc-hanh-python-nang-cao-
+# final-project-thuc-hanh-python-nang-cao
+Trong thời đại hiện nay, khi nhu cầu học ngoại ngữ ngày càng gia tăng, các trung tâm ngoại ngữ đang trở thành một phần không thể thiếu trong hệ thống giáo dục. Tuy nhiên, việc quản lý học viên, giảng viên, lớp học và các hoạt động khác trong trung tâm ngoại ngữ thường rất phức tạp, nhất là khi số lượng học viên lớn. Điều này tạo ra nhu cầu phát triển một hệ thống quản lý hiệu quả, dễ sử dụng và có thể đáp ứng được yêu cầu về sự chính xác và tốc độ xử lý thông tin.
+Do đó, em quyết định lựa chọn đề tài “Xây dựng ứng dụng quản lý trung tâm ngoại ngữ” sử dụng Python và thư viện Tkinter để thiết kế giao diện người dùng, cùng với PostgreSQL để quản lý cơ sở dữ liệu. Đề tài không chỉ giúp em nâng cao kiến thức về lập trình và quản lý cơ sở dữ liệu, mà còn tạo ra một sản phẩm thực tế, có thể áp dụng vào công việc quản lý các trung tâm ngoại ngữ hiện nay.
